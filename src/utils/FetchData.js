@@ -1,7 +1,7 @@
 class FetchData {
 
   buildUrl(searchString, type = "title", sortBy = "vote_average") {
-    let url = "http://react-cdp-api.herokuapp.com/movies?sortBy=" + sortBy +
+    let url = "https://react-cdp-api.herokuapp.com/movies?sortBy=" + sortBy +
               "&search=" + searchString +
               "&sortOrder=desc" +
               "&searchBy=" + type +
