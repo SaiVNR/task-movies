@@ -1,7 +1,7 @@
 {
   "main.css": "/task-movies/static/css/main.a4162d60.chunk.css",
-  "main.js": "/task-movies/static/js/main.83f97365.chunk.js",
-  "main.js.map": "/task-movies/static/js/main.83f97365.chunk.js.map",
+  "main.js": "/task-movies/static/js/main.c92653a3.chunk.js",
+  "main.js.map": "/task-movies/static/js/main.c92653a3.chunk.js.map",
   "static/js/1.2a72196d.chunk.js": "/task-movies/static/js/1.2a72196d.chunk.js",
   "static/js/1.2a72196d.chunk.js.map": "/task-movies/static/js/1.2a72196d.chunk.js.map",
   "runtime~main.js": "/task-movies/static/js/runtime~main.a7390608.js",
@@ -9,6 +9,6 @@
   "static/css/main.a4162d60.chunk.css.map": "/task-movies/static/css/main.a4162d60.chunk.css.map",
   "static/media/MovieBanner.css": "/task-movies/static/media/aeroplane.f584e9f6.jpg",
   "index.html": "/task-movies/index.html",
-  "precache-manifest.91a021afb28a081ec16ae0f33e51a6ab.js": "/task-movies/precache-manifest.91a021afb28a081ec16ae0f33e51a6ab.js",
+  "precache-manifest.b84bddb84ab4abb6cd5883fc7ccf6aca.js": "/task-movies/precache-manifest.b84bddb84ab4abb6cd5883fc7ccf6aca.js",
   "service-worker.js": "/task-movies/service-worker.js"
 }
