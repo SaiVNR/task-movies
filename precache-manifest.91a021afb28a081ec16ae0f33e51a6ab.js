@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/task-movies/static/js/runtime~main.a7390608.js"
   },
   {
-    "revision": "e16b640ad60131b2ec62",
-    "url": "/task-movies/static/js/main.e16b640a.chunk.js"
+    "revision": "83f97365b6e316ffeb6c",
+    "url": "/task-movies/static/js/main.83f97365.chunk.js"
   },
   {
     "revision": "2a72196da9d2f91b7423",
     "url": "/task-movies/static/js/1.2a72196d.chunk.js"
   },
   {
-    "revision": "e16b640ad60131b2ec62",
+    "revision": "83f97365b6e316ffeb6c",
     "url": "/task-movies/static/css/main.a4162d60.chunk.css"
   },
   {
-    "revision": "d48b505c7beac8d95aebd8cf1dde767f",
+    "revision": "9c00b399e1511b055fdbcbbd9a75cf77",
     "url": "/task-movies/index.html"
   }
 ];
