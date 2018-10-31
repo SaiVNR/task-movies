@@ -18,7 +18,7 @@ ReactDOM.render(<Provider store={store}>
                     <Router history={history}>
                         <Switch>
                             <Route path="/displayMovieDetails/:id" component={DisplayMovieDetails} />
-                            <Route exact path="/" component={App} />
+                            <Route exact path="/task-movies" component={App} />
                             <Route path="/*" component={ErrorPage} />
                         </Switch>
                     </Router>

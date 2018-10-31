@@ -31,7 +31,7 @@ class DisplayMovieDetails extends Component {
 
     static getDerivedStateFromProps(props, state=null) {
       props.setDisplayMessage("Searching...")
-      const url = 'http://react-cdp-api.herokuapp.com/movies/' + props.match.params.id
+      const url = 'https://react-cdp-api.herokuapp.com/movies/' + props.match.params.id
       fetchData.getData(url)
         .then(jsonData => {
           props.addMovieBannerData(jsonData);
