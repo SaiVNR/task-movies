@@ -1,0 +1,55 @@
+.fullMovieBanner {
+    background-image: url("netflix.jpg");
+    padding: 50px;
+}
+
+
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: #150578;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-green {
+    color: darkgreen;
+}
+
+.text-dark-cerilean {
+    color: #261447;
+}
+
+.movie-genre {
+    background: white;
+}
+
+.inline {
+    display: inline-block;
+    padding: 1px;
+}
+
+.circle {
+    border: 2px solid red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.backGroundImage {
+    background-image: url("aeroplane.jpg");
+}
